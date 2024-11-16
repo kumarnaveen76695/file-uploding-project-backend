@@ -64,3 +64,5 @@ Get method for this the url is:http://localhost:5000/file/list-files
 
 This is my hole project:https://github.com/kumarnaveen76695/file-uploding-project-backend.git
 
+My deployed url for this project is https://file-uploding-project-backend.onrender.com
+
